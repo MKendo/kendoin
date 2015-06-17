@@ -1,4 +1,10 @@
-name := """kendoin"""
+import com.github.play2war.plugin._
+
+Play2WarPlugin.play2WarSettings
+
+Play2WarKeys.servletVersion := "3.1"
+
+name := "argin"
 
 version := "1.0-SNAPSHOT"
 
