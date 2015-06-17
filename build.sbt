@@ -4,7 +4,7 @@ Play2WarPlugin.play2WarSettings
 
 Play2WarKeys.servletVersion := "3.1"
 
-name := "argin"
+name := "kendoin"
 
 version := "1.0-SNAPSHOT"
 
